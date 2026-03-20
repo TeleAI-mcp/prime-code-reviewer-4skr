@@ -1,2 +1,3 @@
-# prime-code-reviewer-4skr
-Automated issue comment bot repository
+# Prime Code Reviewer 4Skr
+
+Automated issue comment bot repository.
